@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Damon-Martin
-- 👀 I’m interested in C#, Python 3.0 and Web Technologies such as HTML, CSS and JS
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Projects such as Game Development
+- 👀 I’m interested in C#, Java and Web Technologies such as HTML, CSS and JS
+- 🌱 I’m currently learning App Development and Databases
+- 💞️ Currently working on my Year 2 Group Project where we are working with local businesses and charities
 - 📫 How to reach me damon.martin@students.plymouth.ac.uk
 
 <!---
