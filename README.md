@@ -2,4 +2,4 @@
 - 👀 I’m interested in C#, Java and Web Technologies such as HTML, CSS and JS
 - 🌱 I’m currently learning App Development and Databases
 - 💞️ Currently working on my Year 2 Group Project where we are working with local businesses and charities
-- 📫 How to reach me damon.martin@students.plymouth.ac.uk
+- 📫 How to reach me damon.roger.martin@gmail.com
