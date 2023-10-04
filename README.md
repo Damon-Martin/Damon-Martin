@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Damon-Martin
 - 👀 I’m interested in Full-Stack Web Development and DevOps.
-- 🌱 Current Final Year Software Engineering Student at University of Plymouth. Currently working with React and React Native plus learning Big Data Analytics.
+- 🌱 Current Final Year Software Engineering Student at University of Plymouth.
+- 🌱 Currently working with React and React Native plus learning Big Data Analytics.
 - 📫 How to reach me damon.roger.martin@gmail.com
