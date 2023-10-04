@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Damon-Martin
-- 👀 I’m interested in C#, Java and Web Technologies such as HTML, CSS and JS
-- 🌱 I’m currently learning App Development and Databases
-- 💞️ Currently working on my Year 2 Group Project where we are building a drawing application for children with the National Marine Aquarium
+- 👀 I’m interested in Full-Stack Web Development and DevOps.
+- 🌱 Current Final Year Software Engineering Student at University of Plymouth. Currently working with React and React Native plus learning Big Data Analytics.
 - 📫 How to reach me damon.roger.martin@gmail.com
